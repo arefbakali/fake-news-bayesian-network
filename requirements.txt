@@ -1,0 +1,5 @@
+pyagrum
+numpy
+pandas
+matplotlib
+jupyter
